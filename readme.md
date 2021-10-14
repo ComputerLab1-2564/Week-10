@@ -16,3 +16,5 @@
 
 ### git push
 - Sync การเปลี่ยนแปลงใน local repo ไปยัง remote repository
+
+  ![image](https://user-images.githubusercontent.com/567256/137286270-bd06980a-e69d-4951-8c56-3c4fb9de4fc9.png)
