@@ -1,6 +1,6 @@
 # คำสั่ง git ที่ใช้บ่อย
 
-## Pull, Add, Commit, Status, and Push
+## กลุ่มงานทั่วไป Pull, Add, Commit, Status, and Push
 
 ### git pull
 - ดึง contents ล่าสุดของ branch ปัจจุบัน จาก remote (origin) repository   
